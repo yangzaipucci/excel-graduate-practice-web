@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-21",
   "papers": 11,
   "questions": 1628,
   "withExplanations": 1628,
@@ -130,5 +130,7 @@
       "warning": "此题存在等值选项：交换 x、y 后，RSQ 的数值仍相同。B 符合题目规定的参数语义，不能因此说交换参数一定得到不同的决定系数。"
     }
   ],
-  "notes": "解析为独立整理；知识点说明可在同类题间复用。原站评分答案保留，发现疑义附提示。"
+  "notes": "解析为独立整理；知识点说明可在同类题间复用。原站评分答案保留，发现疑义附提示。",
+  "businessDirectQuestionInstances": 110,
+  "businessDirectUniqueQuestions": 93
 }
